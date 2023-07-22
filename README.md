@@ -6,8 +6,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikita-lodha-0349a720a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/imm_Nikita) 
 
-## Profile View:
-[![](https://visitcount.itsvg.in/api?id=NikitaLodha25&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+## Profile Views:
+[![](https://visitcount.itsvg.in/api?id=NikitaLodha25&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NikitaLodha25&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
